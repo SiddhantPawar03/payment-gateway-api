@@ -1,11 +1,11 @@
 # Payment Gateway API
 # Aim:
  ```
-API to make payments, easily integrat with any application
+API to make payments, easily integrate with any application
  ```
 # Features
 
-- Implement API with any fron-end framework.
+- Implement Razorpay API with any front-end framework.
 - Copy of data is stored locally on database.
 - Project can be scaled upon storing data in database.
 - Computation can be done using RDBMS
